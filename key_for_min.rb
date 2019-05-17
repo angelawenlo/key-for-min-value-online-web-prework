@@ -5,6 +5,7 @@ def key_for_min_value (hash)
     if value.min
       return key
     else
+      puts
     end
   end
 end
