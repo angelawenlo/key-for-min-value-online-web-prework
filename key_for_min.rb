@@ -4,7 +4,7 @@
 require 'pry'
 def key_for_min_value (hash)
   hash.each do |key, value|
-    if hash = {}
+    if hash == {}
       return nil
     end
   end
